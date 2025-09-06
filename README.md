@@ -1,10 +1,13 @@
 # Minimalist Home Decor  
 
 ## Introduction  
-Minimalism in home décor focuses on simplicity, functionality, and calming design. A minimalist home often combines clean lines, neutral colors, and carefully chosen furniture to create a sense of space and peace.  
+Minimalism in home decor focuses on simplicity, functionality, and calming design.  
+A minimalist home is not about having less, but about **making space for what truly matters**.  
+It creates a welcoming environment where every item has a purpose, and the home feels light, airy, and uncluttered.  
 
 ### Why Choose Minimalist Decor?  
-Minimalist design has become popular because it emphasizes living with fewer, but more meaningful, objects. This approach creates a calm environment that feels open and stress-free.  
+Minimalist design has become popular because it emphasizes living with fewer, but more meaningful, objects.  
+This approach creates a calm environment that feels open and stress-free, while also being budget-friendly and easier to maintain.  
 
 ---
 
@@ -13,6 +16,8 @@ Minimalist design has become popular because it emphasizes living with fewer, bu
 - Natural materials (wood, stone, linen)  
 - Functional and multipurpose furniture  
 - Decluttered spaces  
+- Plenty of natural light (big windows, sheer curtains)  
+- Green plants for a fresh and cozy feel  
 
 ---
 
